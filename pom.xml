@@ -12,7 +12,7 @@
     <groupId>com.jie</groupId>
     <artifactId>coupon-release</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>trade</name>
+    <name>trad</name>
     <description>trade</description>
 
     <properties>

@@ -15,8 +15,6 @@ public class CouponBatch {
 
     private Long totalCount;
 
-    private Long availableCount;
-
     private Long assignCount;
 
     private Long usedCount;
@@ -73,14 +71,6 @@ public class CouponBatch {
 
     public void setTotalCount(Long totalCount) {
         this.totalCount = totalCount;
-    }
-
-    public Long getAvailableCount() {
-        return availableCount;
-    }
-
-    public void setAvailableCount(Long availableCount) {
-        this.availableCount = availableCount;
     }
 
     public Long getAssignCount() {
